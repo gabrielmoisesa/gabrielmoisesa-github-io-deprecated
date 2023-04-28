@@ -33,7 +33,28 @@ h1 {
 
   .paci {
     font-size: 15px;
-  }
+    }
 
-  #about {
-  }
+    #myself {
+      float: left;
+    }
+
+    .main {
+      height: 490px;
+    }
+
+    #About {
+      position: absolute;
+      left: 400px;
+      top: 75px;
+    }
+
+    .descri {
+      position: absolute;
+      top: 120px;
+      left: 400px;
+    }
+
+
+
+
