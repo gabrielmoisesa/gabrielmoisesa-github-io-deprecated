@@ -1,0 +1,67 @@
+  h1 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+  }
+
+  .descricao {
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  body {
+    background-color: #171A21;
+    color: azure;
+  }
+
+  #eu {
+    text-decoration: none;
+  }
+
+  .games {
+    font-size: 18px;
+  }
+
+  .pcs {
+    font-size: 17px;
+  }
+
+  .webdev {
+    font-size: 16px;
+  }
+
+  .paci {
+    font-size: 15px;
+    }
+
+    #myself {
+      float: left;
+      padding: 5px; 
+      background-color: rgb(73, 0, 73);
+    }
+
+    .main {
+      height: 490px;
+    }
+
+    #About {
+      position: absolute;
+      left: 400px;
+      top: 75px;
+    }
+
+    .descri {
+      position: absolute;
+      top: 120px;
+      left: 400px;
+    }
+
+    ol li:nth-child(odd) {
+      text-decoration: underline;
+    }
+
+
+
+
