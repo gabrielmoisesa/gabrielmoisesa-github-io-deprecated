@@ -1,4 +1,4 @@
-h1 {
+  h1 {
     font-family: 'Roboto', sans-serif;
     text-align: center;
   }
@@ -56,6 +56,10 @@ h1 {
       position: absolute;
       top: 120px;
       left: 400px;
+    }
+
+    ol li:nth-child(odd) {
+      text-decoration: underline;
     }
 
 
